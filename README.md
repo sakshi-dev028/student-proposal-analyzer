@@ -1,4 +1,4 @@
-# AI-Based Student Proposal Analysis and Recommendation System
+#  ProjectLens-AI-Based Student Proposal Analysis and Recommendation System
 
 ## Overview
 
